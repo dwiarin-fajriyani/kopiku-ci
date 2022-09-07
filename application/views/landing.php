@@ -79,7 +79,7 @@
   <body>
   <nav class="navbar navbar-expand-lg bg-white sticky-top">
       <div class="container position-relative py-2">
-        <a class="navbar-brand position-absolute" href="#"><img src="<?php echo base_url('resources/img/logo-kopiku.png');?>" height="55px"></a>
+        <a class="navbar-brand position-absolute" href="#"><img src="<?php echo base_url('resources/img/logo.png');?>" height="55px"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
